@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Roland Stevenson 👋
+
+- 💬 Ask me about causal inference, measurement, BI, and Analytics strategy
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roland-stevenson/)
+
 
 <!--
 **rolandrmgservices/rolandrmgservices** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
